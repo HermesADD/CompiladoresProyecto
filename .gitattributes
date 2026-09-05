@@ -1,0 +1,10 @@
+# Código fuente y documentación: LF
+*.c       text eol=lf
+*.h       text eol=lf
+*.sh      text eol=lf
+Makefile  text eol=lf
+*.md      text eol=lf
+
+# Los archivos de prueba pueden contener LF, CRLF o CR
+# intencionalmente, por lo que Git no debe normalizarlos.
+*.mc      -text
