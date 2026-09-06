@@ -31,7 +31,7 @@ Este proyecto sigue un progreso por práctica.
 - Formato de salida exacto `línea:columna TIPO lexema` (sin lexema para
   `TOKEN_EOF`) en `stdout`; diagnósticos de uso en `stderr`.
 - `Makefile` con reglas `all` (por defecto), `test` y `clean`.
-- Pruebas propias del equipo en `tests/equipo/` (dígito único, varios
+- Pruebas propias del equipo en `tests/team/` (dígito único, varios
   caracteres no reconocidos consecutivos, tabuladores y espacios
   combinados con tokens de más de un carácter, y delimitadores anidados),
   además de la integración de las pruebas públicas proporcionadas por el
@@ -60,3 +60,12 @@ Este proyecto sigue un progreso por práctica.
   pruebas (`make test`) tanto en Linux/WSL como en Windows
   (MSYS2/MinGW64), documentando ambos flujos de compilación en el
   README.
+
+  ### Documentación
+
+- README ampliado con descripción del proyecto, módulos, compilación, ejecución, funcionalidades y pruebas.
+- Instrucciones separadas para Linux/WSL y Windows con MSYS2/MinGW64.
+- Sección específica sobre problemas de portabilidad entre CRLF (`\r\n`) y LF (`\n`).
+- Explicación del efecto de `core.autocrlf`/normalización de Git sobre los archivos de pruebas.
+- Documentación de la necesidad de conservar `run_tests.sh` con LF para evitar problemas de ejecución en Linux.
+- Limitaciones de las pruebas automatizadas desde PowerShell/CMD documentadas; se recomienda WSL o un entorno Bash compatible.
