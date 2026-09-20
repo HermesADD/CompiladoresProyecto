@@ -1,6 +1,6 @@
 # Archivos generados por compilación
 /build/
-/minic
+minic
 /minic.exe
 *.o
 *.obj
