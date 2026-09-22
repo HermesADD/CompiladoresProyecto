@@ -1,0 +1,3 @@
+Error sintactico [1:2]: se esperaba '=' despues del identificador, pero se encontro 'contador'.
+Error sintactico [1:19]: se esperaba '=' despues del identificador, pero se encontro '_variable'.
+Error sintactico [2:0]: se esperaba '=' despues del identificador, pero se encontro TOKEN_EOF.

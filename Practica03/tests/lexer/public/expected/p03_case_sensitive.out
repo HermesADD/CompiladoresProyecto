@@ -1,0 +1,3 @@
+Error sintactico [1:6]: se esperaba '(' despues de 'while', pero se encontro 'While'.
+Error sintactico [1:28]: se esperaba '=' despues del identificador, pero se encontro 'false'.
+Error sintactico [2:0]: se esperaba '=' despues del identificador, pero se encontro TOKEN_EOF.

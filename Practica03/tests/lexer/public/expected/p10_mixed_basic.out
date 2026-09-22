@@ -1,0 +1,4 @@
+Error sintactico [2:4]: se esperaba una sentencia, pero se encontro '10'.
+Error sintactico [2:11]: se esperaba una sentencia, pero se encontro ';'.
+Error sintactico [3:4]: se esperaba una sentencia, pero se encontro '30'.
+Error sintactico [3:10]: se esperaba una sentencia, pero se encontro ';'.

@@ -1,0 +1,4 @@
+Error sintactico [1:4]: se esperaba el nombre de la variable, pero se encontro 'bool'.
+Error sintactico [1:9]: se esperaba el nombre de la variable, pero se encontro 'if'.
+Error sintactico [1:12]: se esperaba '(' despues de 'if', pero se encontro 'else'.
+Error sintactico [1:23]: se esperaba '(' despues de 'while', pero se encontro 'print'.

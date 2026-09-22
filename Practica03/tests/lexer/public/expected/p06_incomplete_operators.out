@@ -1,0 +1,3 @@
+Error lexico [1:0]: elemento invalido '!'.
+Error lexico [1:2]: elemento invalido '&'.
+Error lexico [1:4]: elemento invalido '|'.

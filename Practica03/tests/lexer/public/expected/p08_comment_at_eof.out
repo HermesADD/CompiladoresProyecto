@@ -1,0 +1,2 @@
+Error sintactico [1:0]: se esperaba una sentencia, pero se encontro '10'.
+Error sintactico [1:2]: se esperaba una sentencia, pero se encontro ';'.

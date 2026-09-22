@@ -1,0 +1,4 @@
+Error sintactico [1:0]: se esperaba una sentencia, pero se encontro '10'.
+Error lexico [1:3]: elemento invalido '@'.
+Error lexico [1:8]: elemento invalido '#'.
+Error sintactico [1:12]: se esperaba una sentencia, pero se encontro ';'.
