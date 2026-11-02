@@ -1,0 +1,1 @@
+// Programa sin sentencias.

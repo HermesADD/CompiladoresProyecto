@@ -1,0 +1,2 @@
+Error semantico [1:4]: la condicion de una sentencia 'if' debe ser de tipo 'bool', pero se encontro 'int'.
+Error semantico [2:7]: la condicion de una sentencia 'while' debe ser de tipo 'bool', pero se encontro 'int'.

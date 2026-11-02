@@ -1,0 +1,11 @@
+# Código fuente y documentación
+*.c       text eol=lf
+*.h       text eol=lf
+*.sh      text eol=lf
+*.md      text eol=lf
+*.out     text eol=lf
+Makefile  text eol=lf
+
+# Los archivos .mc pueden contener LF, CRLF o CR intencionalmente.
+# Git no debe modificar sus finales de línea.
+*.mc      -text

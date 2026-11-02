@@ -1,0 +1,21 @@
+# Identificador resultado
+t01_programa_vacio valid
+t02_precedencia_aritmetica valid
+t03_asociatividad_y_unarios valid
+t04_booleanos_anidados valid
+t05_ambitos_anidados valid
+t06_shadowing_con_tipos valid
+t07_if_else_y_while valid
+t08_autorreferencia_permitida valid
+t09_uso_antes_de_declarar invalid
+t10_fuera_de_ambito invalid
+t11_redeclaracion_y_conservacion invalid
+t12_inicializaciones_incompatibles invalid
+t13_asignaciones_incompatibles invalid
+t14_aritmetica_y_unario_invalidos invalid
+t15_relacionales_invalidos invalid
+t16_igualdad_tipos_distintos invalid
+t17_logicos_invalidos invalid
+t18_condiciones_no_booleanas invalid
+t19_propagacion_sin_cascada invalid
+t20_recuperacion_sintactica invalid

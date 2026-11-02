@@ -1,0 +1,2 @@
+Error semantico [3:0]: no es posible asignar un valor de tipo 'bool' a una variable de tipo 'int'.
+Error semantico [4:0]: no es posible asignar un valor de tipo 'int' a una variable de tipo 'bool'.
